@@ -1,13 +1,12 @@
-name: mydrupal8theme
+name: themedrupal8
 type: theme
-description: " My Own Theme for Demo "
+description: 'Another own theme for Testing'
 core: 8.x
+# base theme: classy
 regions:
   header: 'Header'
   content: 'Content'
   sidebar_first: 'Sidebar first'
   footer: 'Footer'
 libraries:
-  - custom/mydrupal8theme
-  - custom/mydrupal8theme/vendor/foundation
-
+  - themedrupal8/global-styling
