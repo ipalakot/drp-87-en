@@ -19,6 +19,7 @@ foundation:
     vendor/foundation/js/vendor/foundation.js: {}
     vendor/foundation/js/vendor/foundation.min.js: {}
     vendor/foundation/js/vendor/jquery.js: {}
+    vendor/foundation/js/vendor/what-input.js: {}
     vendor/foundation/js/app.js: {}
   dependencies:
     - core/jquery

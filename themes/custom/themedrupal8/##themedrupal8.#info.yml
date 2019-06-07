@@ -10,3 +10,4 @@ regions:
   footer: 'Footer'
 libraries:
   - themedrupal8/global-styling
+  - themedrupal8/foundation
