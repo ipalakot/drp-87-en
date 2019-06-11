@@ -13,7 +13,7 @@
 # changes.
 name: Themedrupal8
 type: theme
-#base theme: classy
+# base theme: classy
 description: 'My Own Testing templates !!!.'
 package: Core
 # version: VERSION
@@ -23,24 +23,27 @@ libraries:
   - themedrupal8/foundation
 regions:
   header: Header
-  primary_menu: 'Primary menu'
-  secondary_menu: 'Secondary menu'
-  page_top: 'Page top'
-  page_bottom: 'Page bottom'
-  highlighted: Highlighted
-  featured_top: 'Featured top'
-  breadcrumb: Breadcrumb
   content: Content
   sidebar_first: 'Sidebar first'
-  sidebar_second: 'Sidebar second'
-  featured_bottom_first: 'Featured bottom first'
-  featured_bottom_second: 'Featured bottom second'
-  featured_bottom_third: 'Featured bottom third'
-  footer_first: 'Footer first'
-  footer_second: 'Footer second'
-  footer_third: 'Footer third'
-  footer_fourth: 'Footer fourth'
-  footer_fifth: 'Footer fifth'
+  highlighted: Highlighted
+  footer: 'Footer first'
+
+#  primary_menu: 'Primary menu'
+#  secondary_menu: 'Secondary menu'
+#  page_top: 'Page top'
+#  page_bottom: 'Page bottom'
+#  featured_top: 'Featured top'
+#  breadcrumb: Breadcrumb
+
+#  sidebar_second: 'Sidebar second'
+#  featured_bottom_first: 'Featured bottom first'
+# featured_bottom_second: 'Featured bottom second'
+# featured_bottom_third: 'Featured bottom third'
+  #  footer_first: 'Footer first'
+ # footer_second: 'Footer second'
+ # footer_third: 'Footer third'
+  #footer_fourth: 'Footer fourth'
+  #footer_fifth: 'Footer fifth'
 
 # Information added by Drupal.org packaging script on 2019-05-01
 version: '8.7.0'

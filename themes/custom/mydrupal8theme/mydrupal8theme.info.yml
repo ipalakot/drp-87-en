@@ -8,6 +8,6 @@ regions:
   sidebar_first: 'Sidebar first'
   footer: 'Footer'
 libraries:
-  - custom/mydrupal8theme
-  - custom/mydrupal8theme/vendor/foundation
+  - mydrupal8theme/custom
+  - mydrupal8theme/foundation
 
