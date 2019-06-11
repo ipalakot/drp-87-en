@@ -4,6 +4,12 @@ body {
   color: #3b3b3b;
   background: #292929;
 }
+.logo_custom
+{
+  width:50%;
+  }
+
+
 #page,
 #main-wrapper,
 .region-primary-menu .menu-item a.is-active,

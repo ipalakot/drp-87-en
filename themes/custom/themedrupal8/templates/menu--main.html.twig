@@ -28,9 +28,10 @@
 
   {% macro menu_links(items, attributes, menu_level) %}
     {% import _self as menus %}
+     <div clas="top-bar-a">
       <nav class="top-bar">
           {% if items %}
-          <ul class="menu">
+          <ul class="dropdown menu" data-dropdown-menu>
             {% for item in items %}
             {%
             set classes = [
@@ -49,5 +50,5 @@
           </ul>
           {% endif %}
       </nav>
-
+  </div>
 {% endmacro %}
