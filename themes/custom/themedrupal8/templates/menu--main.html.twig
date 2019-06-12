@@ -18,6 +18,7 @@
 *   - in_active_trail: TRUE if the link is in the active trail.
 */
 #}
+
 {% import _self as menus %}
 
 {#
@@ -28,27 +29,50 @@
 
   {% macro menu_links(items, attributes, menu_level) %}
     {% import _self as menus %}
-     <div clas="top-bar-a">
-      <nav class="top-bar">
-          {% if items %}
-          <ul class="dropdown menu" data-dropdown-menu>
-            {% for item in items %}
-            {%
-            set classes = [
-            'menu-item',
-            item.is_expanded ? 'menu-item--expanded',
-            item.is_collapsed ? 'menu-item--collapsed',
-            item.in_active_trail ? 'menu-item--active-trail',
-            ]
-            %}
 
-            <li{{ item.attributes.addClass(classes) }}>
-            {{ link(item.title, item.url) }}
+      {#
+       Menu Horizontal / Bar Navigation
+      #}
 
-            </li>
-            {% endfor %}
-          </ul>
-          {% endif %}
-      </nav>
-  </div>
+      <div class="top-bar-a"
+           <nav class="top-bar show-for-medium row">
+              {% if items %}
+              <ul class="dropdown menu" data-dropdown-menu>
+                {% for item in items %}
+                <li{{ item.attributes }}>
+                {{ link(item.title, item.url) }}
+                </li>
+                {% endfor %}
+              </ul>
+              {% endif %}
+            </nav>
+      </div>
+
+       {#
+         Menu Off-Canva
+       #}
+
+        <nav class="off-canvas position-left" id="offCanvas" data-off-canvas>
+           <!-- Close button -->
+              <button class="close-button" aria-label="Close menu" type="button" data-close>
+                    <span aria-hidden="true">&times;</span>
+              </button>
+
+            <!-- Menu -->
+
+                {% if items %}
+                  <ul class="vertical menu">
+                    {% for item in items %}
+                        <li{{ item.attributes }}>
+                          {{ link(item.title, item.url) }}
+                        </li>
+                     {% endfor %}
+                  </ul>
+                {% endif %}
+        </nav>
+
+    <!-- Your page content lives here -->
+       <div class="off-canvas-content hide-for-medium" data-off-canvas-content>
+          <button type="button" class="button" data-open="offCanvasLeft">Open Bottom</button>
+      </div>
 {% endmacro %}
