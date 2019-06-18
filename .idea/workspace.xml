@@ -2,53 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a91e1288-0922-4c46-a74b-feada864e268" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sites/default/files/2019-06/48409311_10218319777248139_8936379749450645504_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/default/files/2019-06/African_Woman_Award27051960.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/default/files/2019-06/UCAD_400_361.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/default/files/2019-06/droit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/default/files/2019-06/graphisme-maternelle-lignes-brisees-zigzag-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/default/files/2019-06/portraits81femmes_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/default/files/2019-06/ucad1_small_200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/default/files/2019-06/union-africaine-890x395.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/default/files/styles/large/public/2019-06/UCAD_400_361.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/default/files/styles/large/public/2019-06/droit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/default/files/styles/large/public/2019-06/ucad1_small_200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/default/files/styles/large/public/2019-06/union-africaine-890x395.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/default/files/styles/medium/public/2019-06/UCAD_400_361.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/default/files/styles/medium/public/2019-06/ucad1_small_200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2019-06/48409311_10218319777248139_8936379749450645504_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2019-06/African_Woman_Award27051960.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2019-06/UCAD_400_361.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2019-06/droit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2019-06/graphisme-maternelle-lignes-brisees-zigzag-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2019-06/portraits81femmes_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2019-06/ucad1_small_200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2019-06/union-africaine-890x395.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/templates/block--views-block--slider-block-1.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/slick/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/slick/config.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/slick/fonts/slick.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/slick/fonts/slick.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/slick/fonts/slick.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/slick/fonts/slick.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/slick/slick-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/slick/slick-theme.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/slick/slick-theme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/slick/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/slick/slick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/slick/slick.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/slick/slick.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/slick/slick.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/templates/page.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/themedrupal8/css/colors.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/css/colors.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/themedrupal8/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/themedrupal8/templates/menu--main.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/templates/menu--main.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/themedrupal8/themedrupal8.info.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/themedrupal8.info.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/themedrupal8/themedrupal8.libraries.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/themedrupal8.libraries.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/foundation/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/foundation/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/foundation/css/foundation.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/foundation/css/foundation.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/foundation/css/foundation.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/foundation/css/foundation.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/foundation/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/foundation/js/app.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,24 +21,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/custom/themedrupal8/templates/menu--main.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1241">
-              <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/modules/block/templates/block.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/custom/themedrupal8/themedrupal8.info.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
@@ -92,11 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/custom/themedrupal8/js/app.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/custom/themedrupal8/templates/block--system-branding-block.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -119,13 +56,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/custom/themedrupal8/vendor/slick/slick-theme.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="204" />
+            <state relative-caret-position="306">
+              <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/custom/themedrupal8/templates/html.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/custom/themedrupal8/templates/page.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="49" column="21" lean-forward="true" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/modules/system/templates/region.html.twig">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -133,15 +93,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="339">
               <caret line="82" column="20" lean-forward="true" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/custom/themedrupal8/vendor/foundation/css/foundation.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret column="1305" selection-end-column="145116" />
             </state>
           </provider>
         </entry>
@@ -203,11 +154,9 @@
         <option value="$PROJECT_DIR$/themes/custom/themedrupal8/templates/navigation/block--system-menu-block.html.twig.html" />
         <option value="$PROJECT_DIR$/themes/custom/themedrupal8/##themedrupal8.#info.yml" />
         <option value="$PROJECT_DIR$/themes/custom/mydrupal8theme/mydrupal8theme.info.yml" />
-        <option value="$PROJECT_DIR$/themes/custom/themedrupal8/templates/block--system-branding-block.html.twig" />
         <option value="$PROJECT_DIR$/themes/custom/themedrupal8/templates/block--system-menu-block.html.twig" />
         <option value="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/foundation/css/foundation.css" />
         <option value="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/foundation/css/app.css" />
-        <option value="$PROJECT_DIR$/themes/custom/themedrupal8/templates/html.html.twig" />
         <option value="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/foundation/css/foundation.min.css" />
         <option value="$PROJECT_DIR$/themes/custom/themedrupal8/templates/menu--main.html.twig" />
         <option value="$PROJECT_DIR$/themes/custom/themedrupal8/templates/block--views-block--slider-block-1.html.twig" />
@@ -217,12 +166,15 @@
         <option value="$PROJECT_DIR$/themes/custom/themedrupal8/css/colors.css" />
         <option value="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/slick/slick.css" />
         <option value="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/slick/slick-theme.css" />
+        <option value="$PROJECT_DIR$/themes/custom/themedrupal8/templates/html.html.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/themedrupal8/templates/page.html.twig" />
+        <option value="$PROJECT_DIR$/themes/custom/themedrupal8/templates/block--system-branding-block.html.twig" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-55" />
-    <option name="y" value="-3" />
+    <option name="x" value="-243" />
+    <option name="y" value="-12" />
     <option name="width" value="948" />
     <option name="height" value="844" />
   </component>
@@ -361,7 +313,7 @@
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27950713" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28858626" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24967575" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -392,15 +344,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="30" column="8" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/themes/bartik/bartik.info.yml" />
-    <entry file="file://$PROJECT_DIR$/core/themes/bartik/bartik.breakpoints.yml" />
     <entry file="file://$PROJECT_DIR$/core/themes/bartik/css/colors.css" />
     <entry file="file://$PROJECT_DIR$/core/themes/bartik/bartik.libraries.yml" />
     <entry file="file://$PROJECT_DIR$/sites/default/settings.local.php">
@@ -574,24 +517,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/custom/themedrupal8/templates/html.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/custom/themedrupal8/templates/block--system-menu-block.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="36" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/custom/themedrupal8/templates/block--system-branding-block.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -660,8 +589,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/custom/themedrupal8/vendor/slick/slick-theme.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="204" />
+        <state relative-caret-position="306">
+          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/modules/system/templates/page.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="38" column="42" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/themedrupal8/templates/html.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/themedrupal8/templates/page.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="49" column="21" lean-forward="true" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/modules/system/templates/region.html.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/custom/themedrupal8/templates/block--system-branding-block.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
