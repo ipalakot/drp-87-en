@@ -41,3 +41,8 @@ body {
 {
   background: #292929;
 }
+
+/* Sliders */
+    ul.single.item{
+    margin left : 0px !important}
+

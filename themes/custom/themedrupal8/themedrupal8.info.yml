@@ -21,6 +21,7 @@ package: Core
 libraries:
   - themedrupal8/global-styling
   - themedrupal8/foundation
+
 regions:
   header: Header
   content: Content
