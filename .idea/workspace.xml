@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a91e1288-0922-4c46-a74b-feada864e268" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/js/map.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/js/slick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/templates/menu--footer.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/templates/page--contact.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/templates/test.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sites/example.sites.php" beforeDir="false" afterPath="$PROJECT_DIR$/sites/example.sites.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/themedrupal8/css/colors.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/css/colors.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/themedrupal8/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/themedrupal8/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/themedrupal8/templates/page.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/templates/page.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/themedrupal8/themedrupal8.libraries.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/themedrupal8.libraries.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/slick/slick-theme.less" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/themedrupal8/vendor/slick/slick-theme.less" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,15 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/custom/themedrupal8/templates/menu--footer.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/custom/themedrupal8/templates/page--contact.html.twig">
           <provider selected="true" editor-type-id="text-editor">
@@ -93,11 +69,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/custom/themedrupal8/templates/html.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+            <state relative-caret-position="408">
+              <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/custom/hello_drupal8/hello_drupal8.info.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -190,10 +175,11 @@
         <option value="$PROJECT_DIR$/themes/custom/themedrupal8/js/slick.js" />
         <option value="$PROJECT_DIR$/themes/custom/themedrupal8/themedrupal8.libraries.yml" />
         <option value="$PROJECT_DIR$/themes/custom/themedrupal8/templates/page--contact.html.twig" />
+        <option value="$PROJECT_DIR$/modules/custom/hello_drupal8/hello_drupal8.info.yaml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="963" />
@@ -214,44 +200,20 @@
             <path>
               <item name="drupal-87-en" type="b2602c69:ProjectViewProjectNode" />
               <item name="drupal-87-en" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="drupal-87-en" type="b2602c69:ProjectViewProjectNode" />
               <item name="drupal-87-en" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
               <item name="custom" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="drupal-87-en" type="b2602c69:ProjectViewProjectNode" />
               <item name="drupal-87-en" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
               <item name="custom" type="462c0819:PsiDirectoryNode" />
-              <item name="themedrupal8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="drupal-87-en" type="b2602c69:ProjectViewProjectNode" />
-              <item name="drupal-87-en" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="custom" type="462c0819:PsiDirectoryNode" />
-              <item name="themedrupal8" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="drupal-87-en" type="b2602c69:ProjectViewProjectNode" />
-              <item name="drupal-87-en" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="custom" type="462c0819:PsiDirectoryNode" />
-              <item name="themedrupal8" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="drupal-87-en" type="b2602c69:ProjectViewProjectNode" />
-              <item name="drupal-87-en" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="custom" type="462c0819:PsiDirectoryNode" />
-              <item name="themedrupal8" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="hello_drupal8" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -269,14 +231,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../drupal-870-fr" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\drupal\drupal-87-en\themes\custom\themedrupal8\templates\navigation" />
+      <recent name="C:\wamp64\www\drupal\drupal-87-en\themes\custom\themedrupal8\templates" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\wamp64\www\drupal\drupal-87-en\themes\custom\themedrupal8" />
       <recent name="C:\wamp64\www\drupal\drupal-87-en\themes\custom\themedrupal8\css" />
       <recent name="C:\wamp64\www\drupal\drupal-87-en\themes\custom\themedrupal8\vendor\foundation" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\wamp64\www\drupal\drupal-87-en\themes\custom\themedrupal8\templates\navigation" />
-      <recent name="C:\wamp64\www\drupal\drupal-87-en\themes\custom\themedrupal8\templates" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -314,9 +276,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25745785" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25745785" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24967575" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -330,7 +293,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32914925" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.052998606" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.052998606" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32914925" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -347,13 +310,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/custom/bartik2/bartik.libraries.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1190">
-          <caret line="70" column="18" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/custom/mydrupal8theme/vendor/foundation/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -637,8 +593,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/custom/themedrupal8/templates/html.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        <state relative-caret-position="408">
+          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom/hello_drupal8/hello_drupal8.info.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
         </state>
       </provider>
     </entry>
