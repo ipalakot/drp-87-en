@@ -9,7 +9,7 @@ body {
   width:50%;
   }
 
-.top-bar,
+.top-bar
 {
   color: #FFFFFF;
   background: #40A497;
@@ -44,5 +44,5 @@ body {
 
 /* Sliders */
     ul.single.item{
-    margin left : 0px !important}
+    margin-left : 0px !important}
 

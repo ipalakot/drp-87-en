@@ -46,9 +46,12 @@
  */
 #}
 
+ {#{{attach_library('themedrupal8/map')}} #}
  {{ page.header }}
  <div class="off-canvas-content" data-off-canva-content>
-    <div id="content">
+ <div id="map" class="row"> </div>
+     
+    <div id="content" class="row">
         {{ page.content}}
     </div>
 

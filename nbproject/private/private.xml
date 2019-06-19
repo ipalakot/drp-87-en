@@ -3,8 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/wamp64/www/drupal/drupal-87-en/sites/example.settings.local.php</file>
-            <file>file:/C:/wamp64/www/drupal/drupal-87-en/themes/custom/mydrupal8theme/mydrupal8theme.info.yml</file>
+            <file>file:/C:/wamp64/www/drupal/drupal-87-en/themes/custom/themedrupal8/templates/menu--main.html.twig</file>
+            <file>file:/C:/wamp64/www/drupal/drupal-87-en/themes/custom/themedrupal8/templates/page--contact.html.twig</file>
+            <file>file:/C:/wamp64/www/drupal/drupal-87-en/themes/custom/themedrupal8/themedrupal8.libraries.yml</file>
+            <file>file:/C:/wamp64/www/drupal/drupal-87-en/themes/custom/themedrupal8/css/style.css</file>
+            <file>file:/C:/wamp64/www/drupal/drupal-87-en/themes/custom/themedrupal8/templates/html.html.twig</file>
+            <file>file:/C:/wamp64/www/drupal/drupal-87-en/themes/custom/themedrupal8/themedrupal8.info.yml</file>
+            <file>file:/C:/wamp64/www/drupal/drupal-87-en/themes/custom/themedrupal8/templates/page.html.twig</file>
         </group>
     </open-files>
 </project-private>

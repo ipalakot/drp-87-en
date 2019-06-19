@@ -8,12 +8,12 @@ body {
  font-size: 100%;
  }
 h1 {
- font-size: 200%;
+ font-size: 100%;
  color: navy;
  text-align: center;
  }
 h2 {
- font-size: 150%;
+ font-size: 100%;
  color: red;
  padding-left: 15px;
  }
@@ -33,4 +33,27 @@ a:hover {
 }
 a:active, a:focus {
  color: red;
+}
+
+
+/*hide Icon from From Frontpage */
+.feed-icon{
+    display: none;
+}
+
+/*Footer*/
+#footer{
+    background-color: #222222;
+    color: #ffffff;
+}
+
+#footer li a{
+    color: #9d9d9d;
+}
+
+#footer ul ul{
+    margin-left:40px; 
+}
+#footer row ul{
+    margin-bottom: 5px;
 }
