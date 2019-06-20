@@ -1,30 +1,25 @@
 <?php
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 namespace Drupal\hello_drupal8\Controller;
 
 use Drupal\Core\Controller\ControllerBase;
 
-/**
- * Defines HelloController class.
- */
-class HelloController extends ControllerBase {
-    
-    /**
-   * Display the markup.
-   *
-   * @return array
-   *   Return markup array.
-   */
-  public function content() {
+class SayHelloToDrupal8 extends ControllerBase {
+
+  public function hi(){
     return [
       '#type' => 'markup',
-      '#markup' => $this->t('Hello, World!'),
-    ];
+      '#markup' => $this->t('Bienvenue sur le site Labogenre!'),
+        ];
+    }
+    
+  public function lenom($mon_nom){
+    return array(
+        '#type' => 'markup',
+        '#markup' => $this->t('Hello @name , Bienvenue sur le site LABOGENRE!',
+        ['@name'=>$mon_nom,
+        ]
+        ),
+    ); 
   }
-
 }
-
